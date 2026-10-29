@@ -34,19 +34,10 @@ I have found that this process is about trying, making mistakes, failing, asking
  &nbsp;
  &nbsp;
 
- 
-# Check out Portfolio / LinkedIn / Netlify 👇
-[Portfolio](https://tara-verdeille-portfolio.netlify.app/)
-
-[LinkedIn](https://www.linkedin.com/in/tara-verdeille-28383537/)
-
-[Netlify](https://app.netlify.com/teams/tara78-4yzzjs0/sites)
-
-&nbsp;
 # You can reach me out by 📧
 
  [Email](tara197801@gmail.com)
- [Email](tara.hassani.fr92@gmail.com)
+
  
 &nbsp;
 
